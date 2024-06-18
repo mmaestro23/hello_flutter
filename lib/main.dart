@@ -15,7 +15,7 @@ class MainApp extends StatelessWidget {
           child: Text('Hello isi!',
               textAlign: TextAlign.center,
               style: TextStyle(
-                  fontSize: 30,
+                  fontSize: 35,
                   fontWeight: FontWeight.bold,
                   color: Colors.red)),
         ),
